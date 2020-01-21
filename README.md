@@ -22,6 +22,7 @@
 <p align="center">
   <img width="auto" height="400" src="tech-stack.png">
 </p>
+
 ## Challenges we ran into
 
 - Adding patients to a queue based on check in times
