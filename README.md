@@ -23,11 +23,13 @@
   <img width="auto" height="400" src="tech-stack.png">
 </p>
 ## Challenges we ran into
+
 - Adding patients to a queue based on check in times
 - Recording and transcribing doctor/patient conversation
 - POST request
 
 ## Accomplishments that we are proud of
+
 - Using such a diverse stack of technologies to work together in a tight deadline
 - Learning several new technologies
 
