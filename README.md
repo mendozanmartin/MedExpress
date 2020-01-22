@@ -43,7 +43,7 @@
 - IPO in 6 months big bets
 
 <p>API Url: https://medexpress-265520.appspot.com/<p>
-<p>Web Recoreder Url: https://medexpress.netlify.com<p>
+<p>Web Recoreder Url: https://healthcare-assitant-kxgfmk.firebaseapp.com/<p>
 <p>Speech to Text Server: https://speech-transcript-server.herokuapp.com/<p>
 <p>Patient Web App: https://medexpress-client.herokuapp.com/login</p>
 <p>Doctor Web App: https://medexpress.netlify.com </p>
